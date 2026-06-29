@@ -1,0 +1,21 @@
+# Dados
+3
+4
+5
+6
+7
+8
+0
+
+# Endereço inicial da primeira instrução
+0xD0
+
+LOAD A, 0x00
+ADD A, 0x01
+MULT A, 0x02
+MOV B, A
+SUB B, 0x03
+ADD B, 0x04
+DIV B, 2
+STORE A, 0x05
+STORE B, 0x06

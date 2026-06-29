@@ -1,0 +1,16 @@
+# Dados
+9
+3
+0
+0
+0
+
+# Endereço inicial da primeira instrução
+0x50
+
+LOAD A, 0x00
+STORE A, 0x02
+ADD A, 0x01
+STORE A, 0x03
+MULT A, 2
+STORE A, 0x04
