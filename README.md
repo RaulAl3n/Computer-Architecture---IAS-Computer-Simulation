@@ -143,7 +143,8 @@ Copie o projeto para uma pasta local do computador antes de criar o ambiente vir
 
 ## Autor
 
+Raul Scalassara Alencar
+
 Projeto desenvolvido para a disciplina de Arquitetura de Computadores.
 
 Simulador da arquitetura IAS com interface gráfica desenvolvida em Python utilizando CustomTkinter.
-
